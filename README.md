@@ -12,4 +12,9 @@ Finally, the LazyPredict library is employed to compare different regression mod
 to insights on model performance. This project combines bioinformatics, data science, and
 machine learning techniques to demonstrate a practical approach to drug discovery,
 emphasizing the importance of accurate predictive modelling in optimizing pharmaceutical
-research
+research.
+
+![Architecture Diagram](https://github.com/user-attachments/assets/424e3b0f-6feb-44ca-a388-438695501308)
+
+
+
